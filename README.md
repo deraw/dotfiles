@@ -6,4 +6,4 @@ List of the dotfiles contained in this repository:
 
 - [.bash_aliases](./.bash_aliases)
 
-These are for personal reference, but you can use them or take inspiration if you want! 💚
+*These are for personal reference, but you can use them or take inspiration if you want! 💚*
