@@ -1,4 +1,4 @@
-# My dotfiles 📂
+# My dotfiles
 
 > Dotfiles are hidden configuration files in Unix-like systems that store settings for shells, editors, and other tools.
 
